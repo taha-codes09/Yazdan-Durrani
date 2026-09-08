@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yazdandurrani.net">
-    <img src="frontend/public/logo.png" alt="YazdanDurrani" width="128" height="128" style="border-radius: 24px;">
+    <img src="logo.png" alt="YazdanDurrani" width="128" height="128" style="border-radius: 24px;">
   </a>
 </p>
 
