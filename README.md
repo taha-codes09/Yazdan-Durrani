@@ -358,7 +358,22 @@ Mail still flows without cron — the API drains a small batch on ordinary traff
 
 ---
 
-<p align="center">
-  <a href="https://yazdandurrani.net"><strong>yazdandurrani.net</strong></a><br>
-  <sub>© YazdanDurrani. All rights reserved.</sub>
-</p>
+Developer & Project Attribution
+
+This project is developed and maintained by:
+
+Muhammad Taha
+GitHub: @taha-codes09
+
+Project: Yazdan Durrani / YazdanDurrani
+Official website: https://yazdandurrani.net
+
+This repository represents the engineering implementation of the Yazdan Durrani web platform, including the frontend, backend API, database architecture, authentication system, real-time infrastructure, payment verification, email infrastructure, market-data integrations, and mobile application.
+
+Keywords
+
+Yazdan Durrani, YazdanDurrani, Yazdan Durrani website, Yazdan Durrani official website, YazdanDurrani website, crypto trading, forex trading, crypto education, trading education, crypto signals, forex signals, trading signals, Bitcoin analysis, BTC analysis, gold trading, market analysis, crypto market analysis, trading platform, crypto membership platform, Binance, Bybit, OKX, BNB Chain, USDT, BEP-20, React, PHP, MySQL, Vite, React Native, Expo, Muhammad Taha, taha-codes09.
+
+<p align="center"> <a href="https://yazdandurrani.net"><strong>yazdandurrani.net</strong></a><br> <sub>Official Yazdan Durrani website · Developed and maintained by Muhammad Taha (@taha-codes09)</sub><br> <sub>© YazdanDurrani. All rights reserved.</sub> </p>
+
+
